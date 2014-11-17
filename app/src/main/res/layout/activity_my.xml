@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MyActivity">
+
+    <org.xwalk.core.XWalkView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/xwalk_view"
+        >
+
+    </org.xwalk.core.XWalkView>
+
+</FrameLayout>
